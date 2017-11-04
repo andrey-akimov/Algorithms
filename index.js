@@ -1,3 +1,5 @@
+// search in JS
+
 function binarySearch(num) {
     // console.log('Math: ', Math.round(Math.log2(num)));
     let counter = 0;
@@ -12,3 +14,13 @@ function binarySearch(num) {
     console.log(counter);
 }
 binarySearch(2000000000);
+
+// function fact(num) {
+//     if (num > 1) {
+//         return num * fact(num - 1);
+//     } else {
+//         return num;
+//     }
+// }
+
+// console.log(fact(5));
