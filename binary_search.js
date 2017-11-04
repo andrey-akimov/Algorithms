@@ -14,13 +14,3 @@ function binarySearch(num) {
     console.log(counter);
 }
 binarySearch(2000000000);
-
-// function fact(num) {
-//     if (num > 1) {
-//         return num * fact(num - 1);
-//     } else {
-//         return num;
-//     }
-// }
-
-// console.log(fact(5));
