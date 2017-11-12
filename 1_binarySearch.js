@@ -13,4 +13,4 @@ function binarySearch(num) {
     }
     console.log(counter);
 }
-binarySearch(2000000000);
+binarySearch(4000000000);
